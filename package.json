@@ -1,0 +1,30 @@
+{
+  "name": "tos2",
+  "version": "0.1.0",
+  "description": "Discord bot that points newcomers of a guild in the right direction",
+  "main": "TOS2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord-bot",
+    "discord.js"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Sv443",
+    "email": "contact@sv443.net",
+    "url": "https://github.com/Sv443"
+  },
+  "contributors": [],
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "fs-extra": "^9.1.0",
+    "promise-all-sequential": "^1.0.0",
+    "svcorelib": "^1.12.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.19.0"
+  }
+}
